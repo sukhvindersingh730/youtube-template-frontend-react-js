@@ -1,0 +1,14 @@
+.main{
+    height: 50px;
+    width: 845px;
+    background-color: white;
+    display: flex;
+    gap: 20px;
+    overflow: scroll;
+  
+}
+.main::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+  
+  }

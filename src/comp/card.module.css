@@ -1,0 +1,27 @@
+.main{
+    background-color: white;
+    height: 74vh;
+    width: 845px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.card{
+    width: 270px;
+    height: 250px;
+    color: #000;
+    /* background-color: black; */
+    /* margin-top: px;
+   */
+}
+.card video{
+    width: 270px;
+    height: 200px; 
+}
+h5{
+  text-align: center;
+  margin-bottom:5px ;
+
+}

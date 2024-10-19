@@ -1,0 +1,14 @@
+.main{
+width: 200px;
+height: 84vh;
+background-color: white;
+overflow: scroll;
+  overflow-x: hidden;
+}
+
+p{
+  margin-left: 40px;
+}
+h4{
+    margin-left: 20px;
+}
